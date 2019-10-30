@@ -1,2 +1,15 @@
 # TicTacToe
-OOP Java Course Capstone Project at Queens College, A Simple game for two players, A player can play with the smart(unwinnable) robot or stupid(easy) robot, Win the game by place three in a row
+A clone of the Tic Toc Toes game with extra features such as multiplayer, VS. AI.
+
+![Finished App](https://github.com/jhuilin/storage/blob/master/tictoctoes.gif)
+
+## Getting Started
+
+These instructions will get you a copy of TicTacToe up and running on your local machine for fun
+
+### Installing
+Clone the repo
+
+```
+git clone https://github.com/jhuilin/TicTacToe.git
+```
