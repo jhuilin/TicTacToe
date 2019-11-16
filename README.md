@@ -1,5 +1,5 @@
 # TicTacToe
-A clone of the Tic Toc Toes game with extra features such as multiplayer, VS. AI.
+A clone of the Tic Toc Toes game with extra features such as multiplayer, VS. dumb AI, VS smart AI.
 
 ![Finished App](https://github.com/jhuilin/storage/blob/master/tictoctoes.gif)
 
